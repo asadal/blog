@@ -18,9 +18,9 @@ remote_theme : mmistakes/beautiful-jekyll
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - asadal: "https://asadal.github.io"
+    - asadal: "https://asadal.github.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://asadal.github.io"
+  Author's home: "https://asadal.github.com"
 
 # --- Logo --- #
 
